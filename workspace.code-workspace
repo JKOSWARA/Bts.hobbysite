@@ -1,0 +1,15 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../Desktop/ WEB DEV 2020/hobbysite/images"
+	}
+],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+	"liveServer.settings.multiRootWorkspaceName": "Bts.hobbysite",
+	"liveServer.settings.port": 5501
+  }
+}
